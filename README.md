@@ -1,3 +1,7 @@
-# cshell-
-This repository is to collect the command and usage example of cshell scripts
-The command include awk , sed , grep and others
+# cshell
+##本库旨在收集shell常用指令的使用范例
+包含如下内容
+###awk
+###sed
+###grep
+###others
